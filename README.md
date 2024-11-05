@@ -6,7 +6,7 @@ This is my project description.
 
 Here’s what the project looks like:
 
-![Home Page Screenshot](./assets/homepage.png)
+![Screenshot 2024-11-05 223642](https://github.com/user-attachments/assets/743c813d-b0e2-497d-8522-5c1eb57e6b57)
 
 ## Usage
 
