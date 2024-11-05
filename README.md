@@ -16,7 +16,8 @@ Here’s what the project looks like:
 
 Requirements: NodeJS
 
-To use this application, navigate to the 'production' branch and clone the repo
+To use this application, clone the production branch, this is done by passing the -b flag when cloning, "git clone -b production --single-branch https://github.com/username/repo.git"
+"
 
 From here, navigate to the frontend folder, open a terminal inside this directory and run npm install.
 Do this exact same procedure for the backend also.
